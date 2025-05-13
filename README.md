@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @jimish2300
-- 👀 I’m interested in Machine Learning and Computer Vision
-- 🌱 I’m currently learning Machine Learning
 - 📫 jimishpatel23@live.com
 
 <!---
